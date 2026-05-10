@@ -1,7 +1,9 @@
 DemoED
 ==================
 
-Heya :) Fijibuns here!
+Heya :) Fijibuns here! 
+
+I named it DemoEd because it's like a shorter term for Demographic Education....pretty witty..right? lol Anyway
 
 This repository contains a collection of Philippine-focused demographic and macroeconomic data analysis projects built using Python and statistical research methods. The projects explore how economic indicators, labor markets, demographics, and social trends interact to shape economic conditions and investment outlooks in the Philippines.
 
